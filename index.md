@@ -14,7 +14,7 @@ url_prefix: aws-valkyrie-website
         <div class="aws-valkyrie"><a href="/{{ page.url_prefix }}/">AWS Valkyrie</a><span id="aws-valkyrie-version">{{ site.data.aws-valkyrie.current_version }}</span></div>
         <span class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit.<a href='https://nodejs.org/en/'>Nam in pharetra nibh.</a></span>
     </section>
-    <div id="install-command">$ npm install aws-valkyrie --save</div>
+    <div id="install-command">$ npm i aws-valkyrie</div>
   </div>
 </section>
 
