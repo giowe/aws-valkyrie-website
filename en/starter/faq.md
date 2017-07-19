@@ -4,7 +4,7 @@ title: AWS Valkyrie FAQ
 menu: starter
 lang: en
 redirect_from: "/starter/faq.html"
-url_prefix: test
+url_prefix: aws-valkyrie-website
 ---
 <div id="page-doc" markdown="1">
 # FAQ

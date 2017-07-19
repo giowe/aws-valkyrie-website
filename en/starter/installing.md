@@ -4,7 +4,7 @@ title: Installing AWS Valkyrie
 menu: starter
 lang: en
 redirect_from: "/starter/installing.html"
-url_prefix: test
+url_prefix: aws-valkyrie-website
 ---
 <div id="page-doc" markdown="1">
 # Installing

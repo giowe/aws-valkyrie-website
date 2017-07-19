@@ -4,7 +4,7 @@ title: AWS Valkyrie basic routing
 menu: starter
 lang: en
 redirect_from: "/starter/basic-routing.html"
-url_prefix: test
+url_prefix: aws-valkyrie-website
 ---
 <div id="page-doc" markdown="1">
 # Basic routing

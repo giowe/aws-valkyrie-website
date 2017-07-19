@@ -4,7 +4,7 @@ title: Serving static files in AWS Valkyrie
 menu: starter
 lang: en
 redirect_from: "/starter/static-files.html"
-url_prefix: test
+url_prefix: aws-valkyrie-website
 ---
 <div id="page-doc" markdown="1">
 # Serving static files in AWS Valkyrie

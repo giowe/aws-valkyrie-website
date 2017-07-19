@@ -4,7 +4,7 @@ title: AWS Valkyrie - Node.js web application framework
 menu: home
 lang: en
 redirect_from: "/en/index.html"
-url_prefix: test
+url_prefix: aws-valkyrie-website
 ---
 <section id="home-content">
   {% include header/header-{{ page.lang }}.html %}

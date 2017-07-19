@@ -4,7 +4,7 @@ title: AWS Valkyrie 1.x - API Reference
 menu: api
 lang: en
 redirect_from: "/1x/api.html"
-url_prefix: test
+url_prefix: aws-valkyrie-website
 ---
 <div id="api-doc" markdown="1">
 

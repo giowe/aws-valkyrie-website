@@ -4,7 +4,7 @@ title: AWS Valkyrie "Hello World" example
 menu: starter
 lang: en
 redirect_from: "/starter/hello-world.html"
-url_prefix: test
+url_prefix: aws-valkyrie-website
 ---
 <div id="page-doc" markdown="1">
 # Hello world example

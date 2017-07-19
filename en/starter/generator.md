@@ -4,7 +4,7 @@ title: AWS Valkyrie application generator
 menu: starter
 lang: en
 redirect_from: "/starter/generator.html"
-url_prefix: test
+url_prefix: aws-valkyrie-website
 
 ---
 <div id="page-doc" markdown="1">

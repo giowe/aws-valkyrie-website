@@ -3,7 +3,7 @@ layout: 1x-api
 title: AWS Valkyrie 1.x - API Reference
 lang: en
 redirect_from: "/api.html"
-url_prefix: test
+url_prefix: aws-valkyrie-website
 ---
 <div id="api-doc" markdown="1">
 
