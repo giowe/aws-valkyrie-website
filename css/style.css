@@ -250,7 +250,7 @@ a {
 #aws-valkyrie-version {
   font-size: 0.2em;
   margin-left: 0.5em;
-  color: #259dff !important;
+  color: #ea9100 !important;
   font-weight: 400;
 }
 
@@ -545,7 +545,7 @@ html[xmlns] .clearfix {
 
 
 .doc-notice {
-  background: #faf6e8;
+  background: #ffeccc;
   border: 1px solid #ded8c1;
 }
 
@@ -791,7 +791,7 @@ footer {
 }
 
 #menu ul a.active {
-  color: #259dff;
+  color: #ea9100;
 }
 
 h2 a {
