@@ -11,7 +11,7 @@ url_prefix: aws-valkyrie-website
   <div id="overlay"></div>
   <div id="homepage-leftpane" class="pane">
     <section id="description">
-        <div class="aws-valkyrie"><a href="/{{ page.url_prefix }}/">AWS Valkyrie</a><a href="{{ page.lang }}/changelog/1x.html#{{ site.data.aws-valkyrie.current_version }}" id="aws-valkyrie-version">{{ site.data.aws-valkyrie.current_version }}</a></div>
+        <div class="aws-valkyrie"><a href="/{{ page.url_prefix }}/">AWS Valkyrie</a><span id="aws-valkyrie-version">{{ site.data.aws-valkyrie.current_version }}</span></div>
         <span class="description">Fast, unopinionated, minimalist web framework for <a href='https://nodejs.org/en/'>Node.js</a></span>
     </section>
     <div id="install-command">$ npm install aws-valkyrie --save</div>

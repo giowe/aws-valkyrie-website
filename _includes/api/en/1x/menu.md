@@ -1,6 +1,6 @@
 <ul id="menu">
 
-    <li id="aws-valkyrie-api"><a href="#aws-valkyrie">aws-valkyrie()</a>
+    <li id="aws-valkyrie-api"><a href="#aws-valkyrie">Valkyrie</a>
     <ul id="aws-valkyrie-menu">
         <li><em>Methods</em></li>
         <li id="aws-valkyrie-static-middleware"><a href="#aws-valkyrie.static">aws-valkyrie.static()</a></li>

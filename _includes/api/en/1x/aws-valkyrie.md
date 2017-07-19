@@ -1,4 +1,4 @@
-<h2 id="aws-valkyrie">aws-valkyrie()</h2>
+<h2 id="aws-valkyrie">Valkyrie</h2>
 
 Creates an AWS Valkyrie application. The `aws-valkyrie()` function is a top-level function exported by the `aws-valkyrie` module.
 
