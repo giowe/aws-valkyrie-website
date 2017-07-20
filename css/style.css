@@ -743,8 +743,9 @@ footer {
 }
 
 .menu ul.dropit-submenu a:hover {
-  background: #faaf34;
+  background: #dd9638;
   text-decoration: none;
+  color: #fff;
 }
 
 /* secondary menu */
