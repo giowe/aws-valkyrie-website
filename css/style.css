@@ -739,12 +739,13 @@ footer {
 .menu ul.dropit-submenu a {
   display: block;
   color: #777;
+  text-decoration: none;
   padding: 0 8px 2px 8px;
 }
 
 .menu ul.dropit-submenu a:hover {
-  background: #faaf34;
-  text-decoration: none;
+  background: #dd9638 !important;
+  color: #fff !important;
 }
 
 /* secondary menu */
