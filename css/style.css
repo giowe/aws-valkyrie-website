@@ -744,7 +744,7 @@ footer {
 }
 
 .menu ul.dropit-submenu a:hover {
-  background: #dd9638 !important;
+  background: #faaf34 !important;
   color: #fff !important;
 }
 
@@ -792,7 +792,7 @@ footer {
 }
 
 #menu ul a.active {
-  color: #ea9100;
+  color: #f9d76a;
 }
 
 h2 a {
