@@ -1,7 +1,7 @@
 <h2 id="app">Application</h2>
 
 The `app` object conventionally denotes the AWS Valkyrie application.
-Create it by calling the top-level `aws-valkyrie()` function exported by the AWS Valkyrie module:
+Create it by instantiating the top-level `Valkyrie` class exported by the `aws-valkyrie` module:
 
 ```js
 const Valkyrie = require('aws-valkyrie');
