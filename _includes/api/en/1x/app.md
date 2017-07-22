@@ -4,14 +4,14 @@ The `app` object conventionally denotes the AWS Valkyrie application.
 Create it by calling the top-level `aws-valkyrie()` function exported by the AWS Valkyrie module:
 
 ```js
-var aws-valkyrie = require('aws-valkyrie');
-var app = aws-valkyrie();
+const Valkyrie = require('aws-valkyrie');
+const app = new Valkyrie();
 
-app.get('/', function(req, res){
+app.get('/', (req, res) => {
   res.send('hello world');
 });
 
-app.listen(3000);
+exports.handler = (...args) => app.listen(...args);
 ```
 
 The `app` object has methods for
